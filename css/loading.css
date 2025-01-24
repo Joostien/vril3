@@ -369,7 +369,7 @@ body, html {
 
     /* Adjust the social media icons container for mobile */
     .socials-container {
-        bottom: 80px; /* Position from the bottom */
+        bottom: 100px; /* Position from the bottom */
         gap: 25px; /* Reduce space between children */
     }
 
